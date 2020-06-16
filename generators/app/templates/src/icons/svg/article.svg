@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-11.0%" y="-17.6%" width="122.1%" height="135.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="26.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121612762 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#61E0C0" offset="0%"></stop>
+            <stop stop-color="#3BD7B3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="59.3687221%" y1="5.5718316%" x2="36.2811791%" y2="104.923503%" id="linearGradient-3">
+            <stop stop-color="#3BD7B3" stop-opacity="0.45" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-359.000000, -587.000000)">
+            <g filter="url(#filter-1)" id="内容">
+                <g transform="translate(283.000000, 24.000000)">
+                    <g id="常用入口" transform="translate(0.000000, 349.000000)">
+                        <g id="入口4" transform="translate(0.000000, 55.000000)">
+                            <g id="icon" transform="translate(76.000000, 159.000000)">
+                                <g id="文章">
+                                    <g id="文章-copy-7">
+                                        <rect id="Rectangle-36" fill="url(#linearGradient-2)" x="0" y="0" width="80" height="80" rx="15"></rect>
+                                        <g id="Group-8" transform="translate(40.000000, 21.600000)"></g>
+                                    </g>
+                                    <g id="Group-11" transform="translate(23.200000, 24.000000)">
+                                        <g id="book-open-fill">
+                                            <path d="M3,0 L9.6,0 C14.018278,-8.11624501e-16 17.6,3.581722 17.6,8 L17.6,33.6 L17.6,33.6 L2.71493213,32.1791526 C1.17550204,32.032207 2.24963805e-15,30.7391548 0,29.1927273 L0,3 C-2.02906125e-16,1.34314575 1.34314575,-1.02790844e-15 3,0 Z" id="Rectangle-23" fill="#FFFFFF"></path>
+                                            <path d="M20.6,0 L27.2,0 C31.618278,-8.11624501e-16 35.2,3.581722 35.2,8 L35.2,33.6 L35.2,33.6 L20.3149321,32.1791526 C18.775502,32.032207 17.6,30.7391548 17.6,29.1927273 L17.6,3 C17.6,1.34314575 18.9431458,-1.02790844e-15 20.6,0 Z" id="Rectangle-23-Copy" fill="#FFFFFF" transform="translate(26.400000, 16.800000) scale(-1, 1) translate(-26.400000, -16.800000) "></path>
+                                            <path d="M20.6,0 L27.2,0 C31.618278,-8.11624501e-16 35.2,3.581722 35.2,8 L35.2,33.6 L35.2,33.6 L20.3149321,32.1791526 C18.775502,32.032207 17.6,30.7391548 17.6,29.1927273 L17.6,3 C17.6,1.34314575 18.9431458,-1.02790844e-15 20.6,0 Z" id="Rectangle-23-Copy" fill="url(#linearGradient-3)" transform="translate(26.400000, 16.800000) scale(-1, 1) translate(-26.400000, -16.800000) "></path>
+                                        </g>
+                                        <rect id="Rectangle-34" fill="#3BD7B3" opacity="0.6" x="4" y="9.6" width="9.6" height="3.2" rx="1.6"></rect>
+                                        <rect id="Rectangle-34-Copy-2" fill="#3BD7B3" opacity="0.6" x="21.6" y="9.6" width="9.6" height="3.2" rx="1.6"></rect>
+                                        <rect id="Rectangle-34-Copy" fill="#3BD7B3" opacity="0.6" x="4" y="17.6" width="9.6" height="3.2" rx="1.6"></rect>
+                                        <rect id="Rectangle-34-Copy-3" fill="#3BD7B3" opacity="0.6" x="21.6" y="17.6" width="9.6" height="3.2" rx="1.6"></rect>
+                                        <polygon id="Rectangle-35" fill="#3BD7B3" opacity="0.8" points="24.8 0 28.8 0 28.8 5.6 26.8 4.28691406 24.8 5.6"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
